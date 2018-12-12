@@ -24,4 +24,6 @@ idCard是一个开源的身份证识别系统，其目标是成为一个简单�
 * jdk1.8.0_45
 * junit 4
 * opencv3.3
+
+* 18.12.12,opencv_java341.dll文件在opencv-3.4.1-vc14_vc15.exe文件解压就有
  
